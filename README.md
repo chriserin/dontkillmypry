@@ -1,6 +1,6 @@
 # Dontkillmypry
 
-TODO: Write a gem description
+Allow pry sessions when inside capybara actions
 
 ## Installation
 
@@ -15,10 +15,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install dontkillmypry
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
